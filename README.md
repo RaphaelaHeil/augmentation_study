@@ -6,6 +6,8 @@
 
 Code for the [IbPRIA 2023](http://www.ibpria.org/2023/) paper **"A Study of Augmentation Methods for Handwritten Stenography Recognition"**
 
+Preprint and supplementary material available here: [https://arxiv.org/abs/2303.02761](https://arxiv.org/abs/2303.02761)
+
 ## Table of Contents
 1. [Requirements](#requirements)
 2. [Code](#code)
