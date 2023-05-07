@@ -9,12 +9,12 @@ Code for the [IbPRIA 2023](http://www.ibpria.org/2023/) paper **"A Study of Augm
 ## Table of Contents
 1. [Requirements](#requirements)
 2. [Code](#code)
-  1. [Train](#train)
-  2. [Test](#test)
+    1. [Training](#training)
+    2. [Testing](#testing)
 3. [Citation](#citation)
 4. [Acknowledgements](#acknowledgements)
 
-## 1 Requirements
+## Requirements
 
 See [requirements.txt](requirements.txt). 
 
@@ -24,7 +24,7 @@ The BatchRenorm package can be installed via:
 pip install git+https://github.com/ludvb/batchrenorm@master
 ```
 
-## 2 Code
+## Code
 
 ### Training
 
@@ -59,7 +59,7 @@ Results
     ├── ... 
 ├── ...
 ```
-## 3 Citation
+## Citation
 [IbPRIA 2023](http://www.ibpria.org/2023/)
 
 ```
@@ -71,7 +71,7 @@ Results
   pubstate={to appear}}
 ```
 
-## 4 Acknowledgements
+## Acknowledgements
 This work is partially supported by Riksbankens Jubileumsfond (RJ) (Dnr P19-0103:1). The computations were enabled by resources provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS) at Chalmers Centre for Computational Science and Engineering (C3SE) partially funded by the Swedish Research Council through grant agreement no. 2022-06725. Author E.B. is partially funded by the Centre for Interdisciplinary Mathematics, Uppsala University, Sweden.
 
 
