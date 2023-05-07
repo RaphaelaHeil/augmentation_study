@@ -1,6 +1,8 @@
 # A Study of Augmentation Methods for Handwritten Stenography Recognition
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT) 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/637464009.svg)](https://zenodo.org/badge/latestdoi/637464009)
+
+
 
 ### Raphaela Heil [:envelope:](mailto:raphaela.heil@it.uu.se), Eva Breznik
 
